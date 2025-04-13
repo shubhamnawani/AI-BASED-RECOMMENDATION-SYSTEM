@@ -133,3 +133,7 @@ The program will load the dataset, calculate recommendations, and display the to
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Conclusion
 This AI-Based Recommendation System leverages collaborative filtering techniques to suggest products based on user preferences. By using Apache Mahout, the system computes similarities between users and provides recommendations. This system can be extended to handle larger datasets, integrate with real-world e-commerce platforms, and offer more advanced recommendation algorithms.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/aed65303-f8e1-48fb-863b-80df27659855)
